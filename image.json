@@ -1,0 +1,26 @@
+[
+  {
+    "h1": "",
+    "p": "Full of life",
+    "bgcolor": "#008000",
+    "img": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "h1": "Snow",
+    "p": "White mountains",
+    "bgcolor": "#ececec",
+    "img": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "h1": "Desert",
+    "p": "",
+    "bgcolor": "#702525",
+    "img": "https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+  {
+    "h1": "River",
+    "p": "Clear Water",
+    "bgcolor": "#5a5afd",
+    "img": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
