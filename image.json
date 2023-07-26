@@ -1,26 +1,110 @@
 [
   {
-    "h1": "",
-    "p": "Full of life",
-    "bgcolor": "#008000",
-    "img": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+    "heading": "Mystic Forest",
+    "subheading": "Nature's Green Haven",
+    "background_color": "#228B22",
+    "img": "https://images.pexels.com/photos/5976404/pexels-photo-5976404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "h1": "Snow",
-    "p": "White mountains",
-    "bgcolor": "#ececec",
-    "img": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "heading": "Cosmic Journey",
+    "subheading": "Discovering Galactic Wonders",
+    "background_color": "#261249",
+    "img": "https://images.pexels.com/photos/4257033/pexels-photo-4257033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "h1": "Desert",
-    "p": "",
-    "bgcolor": "#702525",
-    "img": "https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&w=600"
-  }
+    "heading": "Urban Serenity",
+    "subheading": "Metropolis Escape",
+    "background_color": "#790048",
+    "img": "https://images.pexels.com/photos/2921140/pexels-photo-2921140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
   {
-    "h1": "River",
-    "p": "Clear Water",
-    "bgcolor": "#5a5afd",
-    "img": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "heading": "Sunset Embrace",
+    "subheading": "Chasing the Last Light",
+    "background_color": "#DAA520",
+    "img": "https://images.pexels.com/photos/2917356/pexels-photo-2917356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Snowflake Symphony",
+    "subheading": "Winter's Delightful Dance",
+    "background_color": "#baaeae",
+    "img": "https://images.pexels.com/photos/3825179/pexels-photo-3825179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Celestial Bliss",
+    "subheading": "Heavenly Radiance",
+    "background_color": "#2f2f2f",
+    "img": "https://images.pexels.com/photos/816608/pexels-photo-816608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Whimsical Dreams",
+    "subheading": "Imagination Unleashed",
+    "background_color": "#FFC0CB",
+    "img": "https://images.pexels.com/photos/10733692/pexels-photo-10733692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Eternal Flame",
+    "subheading": "Unyielding Passion",
+    "background_color": "#FF4500",
+    "img": "https://images.pexels.com/photos/17190629/pexels-photo-17190629/free-photo-of-flame-in-darkness.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Aerial Symphony",
+    "subheading": "Bird's Eye View",
+    "background_color": "#DB7343",
+    "img": "https://images.pexels.com/photos/5282585/pexels-photo-5282585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Enchanted Garden",
+    "subheading": "Floral Wonderment",
+    "background_color": "#FFCF30",
+    "img": "https://images.pexels.com/photos/1487010/pexels-photo-1487010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Serenading Waves",
+    "subheading": "Ocean's Harmonious Song",
+    "background_color": "#007BA7",
+    "img": "https://images.pexels.com/photos/17307717/pexels-photo-17307717/free-photo-of-cloud-over-waves-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Starry Night",
+    "subheading": "Nocturnal Splendor",
+    "background_color": "#000000",
+    "img": "https://images.pexels.com/photos/1327786/pexels-photo-1327786.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Harmony Falls",
+    "subheading": "Cascading Waters",
+    "background_color": "#E48E14",
+    "img": "https://images.pexels.com/photos/5875898/pexels-photo-5875898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Floating Clouds",
+    "subheading": "Above the Horizon",
+    "background_color": "#A7FBFF",
+    "img": "https://images.pexels.com/photos/8953361/pexels-photo-8953361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Rustic Charm",
+    "subheading": "Country Living",
+    "background_color": "#B7410E",
+    "img": "https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Glimmering Cityscape",
+    "subheading": "Urban Nights",
+    "background_color": "#708090",
+    "img": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Radiant Sunflowers",
+    "subheading": "Nature's Yellow Gems",
+    "background_color": "#FFD700",
+    "img": "https://images.pexels.com/photos/963060/pexels-photo-963060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "heading": "Ethereal Aurora",
+    "subheading": "Painting the Skies",
+    "background_color": "#65E995",
+    "img": "https://images.pexels.com/photos/3855630/pexels-photo-3855630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ]
